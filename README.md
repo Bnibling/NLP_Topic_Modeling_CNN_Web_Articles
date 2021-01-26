@@ -31,4 +31,3 @@ This project will explore the [CNN stories dataset](https://cs.nyu.edu/~kcho/DMQ
 
 ## Conclusion
 
-\

@@ -1,6 +1,7 @@
 # Thinkful Data Science Final Capstone
 ## NLP Topic Modeling of CNN Web Articles via LDA
-*Barrett Nibling*
+**Barrett Nibling**
+
 *https://www.linkedin.com/in/barrettnibling/*
 
 As a former English teacher in Japan, providing my students with relevant material that was both useful for their learning and classroom engagement was of utmost importance. I often found my most successful lessons were the ones where we discussed current affairs in the news, as these were topics they were already discussing among themselves in Japanese. More importantly, due to the nature of most of these lessons, they often allowed me to teach more than just vocabulary and grammar, by instilling my students with critical thinking skills and offering them an avenue to express their own ideas on worldly problems. That is why I used to offer two different level elective English courses that were focused solely on current affairs in the world and they relied heavily on news articles as source material for discussions. 
